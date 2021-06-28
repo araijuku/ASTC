@@ -5,11 +5,11 @@
   "author": "<samukutemo>",
   "cover": "<https://pbs.twimg.com/media/EzA6RxRVUAIfzXO?format=jpg&name=large>",
   "chapters": {
-    "<6>": {
-      "title": "<Account Leak 6>",
-      "volume": "<1>",
+    "6": {
+      "title": "Account Leak 6",
+      "volume": "1",
       "groups": {
-        "<Araijuku Station Translation Circle>": "/proxy/api/imgur/chapter/yhxIkM1"
+        "Imgur": "/proxy/api/imgur/chapter/yhxIkM1"
       },
       "last_updated": "1616368746"
     }
