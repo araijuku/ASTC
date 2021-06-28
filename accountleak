@@ -1,17 +1,17 @@
-{
-  "title": "<Account Leak>",
-  "description": "<Account Leak by @samukutemo on Twitter>",
-  "artist": "<samukutemo>",
-  "author": "<samukutemo>",
-  "cover": "<https://pbs.twimg.com/media/EzA6RxRVUAIfzXO?format=jpg&name=large>",
-  "chapters": {
-    "6": {
-      "title": "Account Leak 6",
-      "volume": "1",
-      "groups": {
-        "Imgur": "/proxy/api/imgur/chapter/yhxIkM1"
-      },
-      "last_updated": "1616368746"
+{    
+    "title": "War for Rayuba: Shield Soundyear II",
+    "description": "A multiversal security guard with shield and portal powers faces his greatest challenge yet.",
+    "author": "Shield Generator 7",
+    "artist": "Shield Generator 7",
+    "cover": "https://i.imgur.com/MxxaE9O.png",
+    "chapters": {
+        "0": {
+            "groups": {
+                "Imgur": "/proxy/api/imgur/chapter/RVfwAwb"
+            },
+            "last_updated": 1624606143,
+            "title": "Intro",
+            "volume": "1"
+        }
     }
-  }
 }
