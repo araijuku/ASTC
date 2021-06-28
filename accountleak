@@ -41,7 +41,15 @@
       "title": "Otaku's Anxiety",
       "volume": "1",
       "groups": {
-        "<group name>": "/proxy/api/imgur/chapter/z300KgB/"
+        "Araijuku Station Translation Circle": "/proxy/api/imgur/chapter/z300KgB/"
+      },
+      "last_updated": "1616368746"
+    },
+       "11": {
+      "title": "Otaku gets interrogated",
+      "volume": "1",
+      "groups": {
+        "Araijuku Station Translation Circle": "/proxy/api/imgur/chapter/9KPZuum/"
       },
       "last_updated": "1616368746"
     }
