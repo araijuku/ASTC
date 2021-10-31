@@ -3,9 +3,9 @@
   "description": "<manga description>",
   "artist": "Nanashi",
   "author": "Nanashi",
-  "cover": "",
+  "cover": "https://i.pximg.net/img-master/img/2021/10/19/23/55/33/93557358_p0_master1200.jpg",
   "chapters": {
-    "<chapter number>": {
+    "1": {
       "title": "Oneshot",
       "volume": "1",
       "groups": {
