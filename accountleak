@@ -150,10 +150,18 @@
       "last_updated": "1616368746"
     },
        "19": {
-      "title": "Too Close",
+      "title": "Too Close...",
       "volume": "1",
       "groups": {
         "Araijuku Station Translation Circle": "/proxy/api/imgur/chapter/QkLm8SR/"
+      },
+      "last_updated": "1616368746"
+    },
+       "20": {
+      "title": "Something Bad...",
+      "volume": "1",
+      "groups": {
+        "Araijuku Station Translation Circle": "/proxy/api/imgur/chapter/pY1ZVzb/"
       },
       "last_updated": "1616368746"
     }
